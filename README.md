@@ -20,3 +20,10 @@ This is a simple web-based image editor with where Users can upload images, add 
 ``` bash
 npm run dev
 ```
+
+3. Login
+    ``` bash
+    username: testuser
+    password: 123456
+    ```
+You can change it in the authContext.js file
