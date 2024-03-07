@@ -1,6 +1,6 @@
 'use client'
 import React from 'react';
-import ImageEditor from './../components/ImageEditor';
+import ImageEditor from './../components/imageEditor';
 import withAuth from './../withAuth'
 
 function Home() {
